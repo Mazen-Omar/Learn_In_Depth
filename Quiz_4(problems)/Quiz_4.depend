@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1718995851 source:d:\study\courses\embedded_systems\c_programming\projects\tic_tac_game\quiz_4\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<math.h>
-

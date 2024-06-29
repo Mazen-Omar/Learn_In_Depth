@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1718807724 source:d:\study\courses\embedded_systems\c_programming\projects\tic_tac_game\assignment_1\main.c
-	<stdio.h>
-	<stdlib.h>
-
